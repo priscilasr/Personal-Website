@@ -1,0 +1,89 @@
+.navbar2{
+
+    padding-left: 10px;
+}
+
+.toppad{
+
+    padding-top: 10px;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    font-size: 50px;
+
+}
+
+.bold{
+
+    font-weight: bold;
+}
+
+.intro{
+
+    padding-top: 10px;
+    padding-left: 150px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.photo{
+
+    padding-top: 10px;
+    padding-left: 10px;
+    width: 280px; 
+    height: 200px;
+    
+}
+
+.servicetitles{
+
+    font-family: "Times New Roman", Times, serif;
+    color: #003333;
+    font-size: 18px;
+}
+
+.indextexr{
+
+    font-family: "Times New Roman", Times, serif;
+    color: #003333;
+}
+
+.but2{
+
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+.serice{
+
+    padding-top: 50px;
+}
+
+.port{
+
+    padding-bottom: 20px;
+}
+
+
+
+
+.dark-mode {
+    
+    background: #000;
+    filter: invert(1) hue-rotate(180deg)
+  }
+
+  .qual{
+
+    font-size: 18px;
+  }
+
+
+
+
+
+
+
+
+
+ 
+
